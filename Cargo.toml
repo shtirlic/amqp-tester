@@ -1,0 +1,9 @@
+[package]
+name = "amqp-tester"
+version = "0.1.0"
+authors = ["shtirlic <serg@podtynnyi.com>"]
+
+[dependencies]
+amqp = "*"
+env_logger = "*"
+argparse = "*"
